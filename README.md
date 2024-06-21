@@ -1,20 +1,20 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#4682B4&height=120&selection=header"/>
+
+
 <h1 align="center">Olá, eu sou o Vinícius!</h1>
-<h3 align="center">Ensusiasta da Tecnologia | Ciência da Computação - UFMS | Sempre aprendendo</h3>
+<br />
+<br />
+<br />
 
-<!-- Onda animada superior -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-repo/your-branch/your-wave.svg" alt="Onda animada">
-</p>
-
-<p align="center">
-  <img src="Imagem do WhatsApp de 2024-01-29 à(s) 16.07.39_50e6efc6.jpg" alt="Sua Foto" style="border-radius: 50%; width: 500px;">
-</p>
 
 
 <!-- Animação de texto no meio -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=blue&center=true&vCenter=true&width=440&height=45&lines=Bem-vindo(a)!;Me+chamo+Vinícius+Santos!;Programador+Junior;Estudante+da+UFMS" alt="Animação de texto">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=blue&center=true&vCenter=true&width=440&height=45&lines=Bem-vindo(a)!;Ensusiasta+da+Tecnologia;Me+chamo+Vinícius+Santos!;Programador+Junior;Ciência+da+Computação+-+UFMS;Sempre+aprendendo!" alt="Animação de texto">
 </p>
+<br />
+<br />
+<br />
 
 
 <p align="center">
@@ -66,7 +66,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
 </p>
 
-<!-- Onda animada inferior -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-repo/your-branch/your-wave.svg" alt="Onda animada">
-</p>
+
+
