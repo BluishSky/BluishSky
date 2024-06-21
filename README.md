@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="URL-DA-SUA-IMAGEM" alt="Sua Foto" style="border-radius: 50%;">
+  <img src="Imagem do WhatsApp de 2024-01-29 à(s) 16.07.39_50e6efc6.jpg" alt="Sua Foto" style="border-radius: 50%; width: 500px;">
 </p>
 
 
