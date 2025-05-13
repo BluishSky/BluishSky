@@ -10,7 +10,7 @@
 
 <!-- Animação de texto no meio -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=blue&center=true&vCenter=true&width=440&height=45&lines=Bem-vindo(a)!;Ensusiasta+da+Tecnologia;Me+chamo+Vinícius+Santos!;Programador+Junior;Ciência+da+Computação+-+UFMS;Sempre+aprendendo!" alt="Animação de texto">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=blue&center=true&vCenter=true&width=440&height=45&lines=Bem-vindo(a)!;Entusiasta+da+Tecnologia;Me+chamo+Vinícius+Santos!;Programador+Junior;Ciência+da+Computação+-+UFMS;Sempre+aprendendo!" alt="Animação de texto">
 </p>
 <br />
 <br />
